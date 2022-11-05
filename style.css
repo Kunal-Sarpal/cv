@@ -33,7 +33,7 @@ div{
     color:azure
 }
 div > nav > ul{
-    margin:-6px;
+/*     margin:-6px; */
     padding:30px
 }
 div > nav > ul > li{
