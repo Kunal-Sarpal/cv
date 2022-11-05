@@ -32,10 +32,10 @@ div{
     background-color: black;
     color:azure
 }
-ul{
+div > nav > ul{
     margin:-6px;
     padding:30px
 }
-li{
+div > nav > ul > li{
     padding:20px
 }
